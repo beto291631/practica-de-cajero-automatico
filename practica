@@ -1,1 +1,6 @@
-sprint("hola mundo")
+saldo_cuenta : 5000
+efectivo_cajero : 10000
+
+
+def iniciar_seccion():
+     bytes
