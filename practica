@@ -3,4 +3,4 @@ efectivo_cajero : 10000
 
 
 def iniciar_seccion():
-     bytes
+     bytes ddddd
